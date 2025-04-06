@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "关于瓯顺锁业"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+它是一个专门进行锁具生产，以及锁具加工的企业，创立于2016年，目前已有9年历史，对于锁业加工，是十分专业的，希望在线上，可以结交一些关于这方面的合作伙伴，以及客户，我们会将每个产品的要求做到最高，对于品质的严格把控以及对一些
 
